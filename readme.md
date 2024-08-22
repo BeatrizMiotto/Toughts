@@ -17,9 +17,9 @@ Aplicação web desenvolvida durante o curso da Udemy, utilizando Node.js e dive
 ## Funcionalidades:
 * Autenticação: Criação de contas, login e logout.
 * Pensamentos:
-Criação de novos pensamentos.
-Edição de pensamentos existentes.
-Exclusão de pensamentos.
-Busca de pensamentos por palavras-chave.
-Rotas Protegidas: Acesso restrito a funcionalidades para usuários autenticados.
+ * Criação de novos pensamentos.
+ * Edição de pensamentos existentes.
+ * Exclusão de pensamentos.
+ * Busca de pensamentos por palavras-chave.
+ * Rotas Protegidas: Acesso restrito a funcionalidades para usuários autenticados.
 
